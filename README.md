@@ -46,4 +46,4 @@
 問い合わせ
 --
 
-- 不明点などがあれば [Twitter](https://twitter.com/ohtakium) でお気軽にお尋ねください
+- 不明点などがあれば [Twitter](https://twitter.com/programlet) でお気軽にお尋ねください
